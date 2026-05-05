@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mosojc8yy6omi"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mosojc8yy6omi">
+    <organization identifier="eXe-mosojc8yy6omi" structure="hierarchical">
+      <title>Museo digital: la vida durante la I y II Guerra Mundial</title>
+      <item identifier="ITEM-page-moslu29d-1qaynzwba" identifierref="RES-page-moslu29d-1qaynzwba" isvisible="true">
+        <title>MUSEO DIGITAL GUERRAS MUNDIALES.</title>
+      </item>
+      <item identifier="ITEM-page-moslu29j-zbi05x8j0" identifierref="RES-page-moslu29j-zbi05x8j0" isvisible="true">
+        <title>PRESENTACIÓN DEL PROYECTO.</title>
+      </item>
+      <item identifier="ITEM-page-moslu29m-6qo1v5ydh" identifierref="RES-page-moslu29m-6qo1v5ydh" isvisible="true">
+        <title>SALA 1: PRIMERA GUERRA MUNDIAL.</title>
+      </item>
+      <item identifier="ITEM-page-moslu29q-1ovvjzke9" identifierref="RES-page-moslu29q-1ovvjzke9" isvisible="true">
+        <title>SALA 2: SEGUNDA GUERRA MUNDIAL.</title>
+      </item>
+      <item identifier="ITEM-page-moslu29v-qhczkus51" identifierref="RES-page-moslu29v-qhczkus51" isvisible="true">
+        <title>SALA 3: LA VIDA DE LAS PERSONAS.</title>
+      </item>
+      <item identifier="ITEM-page-moslu29y-3evba7vce" identifierref="RES-page-moslu29y-3evba7vce" isvisible="true">
+        <title>PRODUCTO FINAL.</title>
+      </item>
+      <item identifier="ITEM-page-moslu2a0-yty7uo8br" identifierref="RES-page-moslu2a0-yty7uo8br" isvisible="true">
+        <title>SEGURIDAD DIGITAL.</title>
+      </item>
+      <item identifier="ITEM-page-moslu2a2-qts9e1c5e" identifierref="RES-page-moslu2a2-qts9e1c5e" isvisible="true">
+        <title>HERRAMIENTAS DIGITALES.</title>
+      </item>
+      <item identifier="ITEM-page-moslu2a5-3aua5fu9i" identifierref="RES-page-moslu2a5-3aua5fu9i" isvisible="true">
+        <title>LÍNEA TEMPORAL.</title>
+      </item>
+      <item identifier="ITEM-page-moslu2a8-3m25k9ll5" identifierref="RES-page-moslu2a8-3m25k9ll5" isvisible="true">
+        <title>EVALUACIÓN.</title>
+      </item>
+      <item identifier="ITEM-page-moslu2aa-z9gs7huv9" identifierref="RES-page-moslu2aa-z9gs7huv9" isvisible="true">
+        <title>GUÍA DIDÁCTICA (PROFESORADO).</title>
+      </item>
+      <item identifier="ITEM-page-moslu2ac-m15tmjsjg" identifierref="RES-page-moslu2ac-m15tmjsjg" isvisible="true">
+        <title>ATENCIÓN A LA DIVERSIDAD (DUA).</title>
+      </item>
+      <item identifier="ITEM-page-moslu2ae-tr0y7l22j" identifierref="RES-page-moslu2ae-tr0y7l22j" isvisible="true">
+        <title>CRÉDITOS.</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-moslu29d-1qaynzwba" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu29j-zbi05x8j0" type="webcontent" adlcp:scormtype="sco" href="html/presentacion-del-proyecto.html">
+      <file href="html/presentacion-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu29m-6qo1v5ydh" type="webcontent" adlcp:scormtype="sco" href="html/sala-1-primera-guerra-mundial.html">
+      <file href="html/sala-1-primera-guerra-mundial.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu29q-1ovvjzke9" type="webcontent" adlcp:scormtype="sco" href="html/sala-2-segunda-guerra-mundial.html">
+      <file href="html/sala-2-segunda-guerra-mundial.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu29v-qhczkus51" type="webcontent" adlcp:scormtype="sco" href="html/sala-3-la-vida-de-las-personas.html">
+      <file href="html/sala-3-la-vida-de-las-personas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu29y-3evba7vce" type="webcontent" adlcp:scormtype="sco" href="html/producto-final.html">
+      <file href="html/producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2a0-yty7uo8br" type="webcontent" adlcp:scormtype="sco" href="html/seguridad-digital.html">
+      <file href="html/seguridad-digital.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2a2-qts9e1c5e" type="webcontent" adlcp:scormtype="sco" href="html/herramientas-digitales.html">
+      <file href="html/herramientas-digitales.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2a5-3aua5fu9i" type="webcontent" adlcp:scormtype="sco" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2a8-3m25k9ll5" type="webcontent" adlcp:scormtype="sco" href="html/evaluacion.html">
+      <file href="html/evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2aa-z9gs7huv9" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica-profesorado.html">
+      <file href="html/guia-didactica-profesorado.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2ac-m15tmjsjg" type="webcontent" adlcp:scormtype="sco" href="html/atencion-a-la-diversidad-dua.html">
+      <file href="html/atencion-a-la-diversidad-dua.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moslu2ae-tr0y7l22j" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/00b7b923-36a4-29dd-a3d9-be054f1434b2.jpg"/>
+      <file href="content/resources/03cc8db2-9c24-e85d-0596-0479006fcebc.webp"/>
+      <file href="content/resources/2f73424e-6575-a7c9-4b16-618baec72fc4.jpg"/>
+      <file href="content/resources/874b13cf-4d83-c229-080a-2c9784e5b251.webp"/>
+      <file href="content/resources/Final-Segunda-Guerra-Mundial-en-Europa.webp"/>
+      <file href="content/resources/II Guerra Mundial I.jpg"/>
+      <file href="content/resources/La-reaccion-de-los-aliados.webp"/>
+      <file href="content/resources/aae025d7-b982-3554-0b2a-3cfc28f4bca1.webp"/>
+      <file href="content/resources/alianzas-primera-guerra-mundial-mapa.webp"/>
+      <file href="content/resources/depositphotos_63471769-stock-photo-the-trenches-on-battlefield-of.jpg"/>
+      <file href="content/resources/descargar (1).webp"/>
+      <file href="content/resources/descargar.webp"/>
+      <file href="content/resources/df394ffc-ba3c-3e24-1a4e-efd9b5f5a29f.webp"/>
+      <file href="content/resources/e764ac51-e8e8-d0b2-033d-1735f541bc03.webp"/>
+      <file href="idevices/crossword/ccccrossword.png"/>
+      <file href="idevices/crossword/ccgmbackground.jpg"/>
+      <file href="idevices/crossword/ccgmclose.svg"/>
+      <file href="idevices/crossword/ccgmdefinitions.png"/>
+      <file href="idevices/crossword/ccgmnoback.png"/>
+      <file href="idevices/crossword/ccgmzoomf.png"/>
+      <file href="idevices/crossword/ccgmzoomn.png"/>
+      <file href="idevices/crossword/ccmgimage.svg"/>
+      <file href="idevices/crossword/cmmgaudio.svg"/>
+      <file href="idevices/crossword/crossword.css"/>
+      <file href="idevices/crossword/crossword.js"/>
+      <file href="idevices/crossword/exequextaudio.svg"/>
+      <file href="idevices/crossword/exequextcursor.gif"/>
+      <file href="idevices/crossword/exequextfull.svg"/>
+      <file href="idevices/crossword/exequexthits.svg"/>
+      <file href="idevices/crossword/exequextmin.svg"/>
+      <file href="idevices/crossword/exequextnumber.svg"/>
+      <file href="idevices/crossword/exequextreply.svg"/>
+      <file href="idevices/crossword/exequextrerrors.svg"/>
+      <file href="idevices/crossword/exequextscore.svg"/>
+      <file href="idevices/crossword/exequextsq.svg"/>
+      <file href="idevices/crossword/exequexttime.svg"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/puzzle/exequextaudio.svg"/>
+      <file href="idevices/puzzle/exequextcursor.gif"/>
+      <file href="idevices/puzzle/exequextfull.svg"/>
+      <file href="idevices/puzzle/exequexthits.svg"/>
+      <file href="idevices/puzzle/exequextlive.png"/>
+      <file href="idevices/puzzle/exequextlost.png"/>
+      <file href="idevices/puzzle/exequextmin.svg"/>
+      <file href="idevices/puzzle/exequextnumber.svg"/>
+      <file href="idevices/puzzle/exequextplayaudio.svg"/>
+      <file href="idevices/puzzle/exequextreply.svg"/>
+      <file href="idevices/puzzle/exequextrerrors.svg"/>
+      <file href="idevices/puzzle/exequextscore.svg"/>
+      <file href="idevices/puzzle/exequextsq.svg"/>
+      <file href="idevices/puzzle/exequexttime.svg"/>
+      <file href="idevices/puzzle/exequextwon.png"/>
+      <file href="idevices/puzzle/mapaareas.svg"/>
+      <file href="idevices/puzzle/puzlenumbers.svg"/>
+      <file href="idevices/puzzle/puzzle-Image.png"/>
+      <file href="idevices/puzzle/puzzle.css"/>
+      <file href="idevices/puzzle/puzzle.js"/>
+      <file href="idevices/puzzle/puzzleHome.png"/>
+      <file href="idevices/puzzle/puzzleIcon.png"/>
+      <file href="idevices/puzzle/quextCursor.gif"/>
+      <file href="idevices/puzzle/quextauthor.png"/>
+      <file href="idevices/puzzle/vquextReload.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextaudio.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextcursor.gif"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextfirstr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextfull.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequexthits.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextlastr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextlive.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextlost.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextmin.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextmoveon.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextnextr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextnumber.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextpause.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextplayvideo.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextpreviousr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextreload.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextreply.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextrerrors.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextscore.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextsq.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequexttime.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextvideo.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextwon.png"/>
+      <file href="idevices/quick-questions-multiple-choice/quick-questions-multiple-choice.css"/>
+      <file href="idevices/quick-questions-multiple-choice/quick-questions-multiple-choice.js"/>
+      <file href="idevices/quick-questions-multiple-choice/seleccionaHome.png"/>
+      <file href="idevices/quick-questions-multiple-choice/seleccionaIcon.png"/>
+      <file href="idevices/rubric/exequextsq.svg"/>
+      <file href="idevices/rubric/html2canvas.js"/>
+      <file href="idevices/rubric/rubric.css"/>
+      <file href="idevices/rubric/rubric.js"/>
+      <file href="idevices/scrambled-list/exequextfull.svg"/>
+      <file href="idevices/scrambled-list/exequexthits.svg"/>
+      <file href="idevices/scrambled-list/exequextmin.svg"/>
+      <file href="idevices/scrambled-list/exequextnumber.svg"/>
+      <file href="idevices/scrambled-list/exequextreload.svg"/>
+      <file href="idevices/scrambled-list/exequextrerrors.svg"/>
+      <file href="idevices/scrambled-list/exequextscore.svg"/>
+      <file href="idevices/scrambled-list/exequextsq.svg"/>
+      <file href="idevices/scrambled-list/exequexttime.svg"/>
+      <file href="idevices/scrambled-list/scrambled-list.css"/>
+      <file href="idevices/scrambled-list/scrambled-list.html"/>
+      <file href="idevices/scrambled-list/scrambled-list.js"/>
+      <file href="idevices/scrambled-list/scrambled-list.png"/>
+      <file href="idevices/sort/exequextaudio.svg"/>
+      <file href="idevices/sort/exequextcursor.gif"/>
+      <file href="idevices/sort/exequextfull.svg"/>
+      <file href="idevices/sort/exequexthits.svg"/>
+      <file href="idevices/sort/exequextlive.png"/>
+      <file href="idevices/sort/exequextlost.png"/>
+      <file href="idevices/sort/exequextmin.svg"/>
+      <file href="idevices/sort/exequextmoveon.svg"/>
+      <file href="idevices/sort/exequextnumber.svg"/>
+      <file href="idevices/sort/exequextplayaudio.svg"/>
+      <file href="idevices/sort/exequextreload.svg"/>
+      <file href="idevices/sort/exequextreply.svg"/>
+      <file href="idevices/sort/exequextrerrors.svg"/>
+      <file href="idevices/sort/exequextscore.svg"/>
+      <file href="idevices/sort/exequextsq.svg"/>
+      <file href="idevices/sort/exequexttime.svg"/>
+      <file href="idevices/sort/exequextwon.png"/>
+      <file href="idevices/sort/exezoomf.png"/>
+      <file href="idevices/sort/exezoomn.png"/>
+      <file href="idevices/sort/ordenaHome.png"/>
+      <file href="idevices/sort/ordenaIcon.png"/>
+      <file href="idevices/sort/quextCursor.gif"/>
+      <file href="idevices/sort/sort.css"/>
+      <file href="idevices/sort/sort.js"/>
+      <file href="idevices/sort/vquextReload.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="idevices/trueorfalse/exequextfull.svg"/>
+      <file href="idevices/trueorfalse/exequexthits.svg"/>
+      <file href="idevices/trueorfalse/exequextmin.svg"/>
+      <file href="idevices/trueorfalse/exequextnumber.svg"/>
+      <file href="idevices/trueorfalse/exequextreload.svg"/>
+      <file href="idevices/trueorfalse/exequextrerrors.svg"/>
+      <file href="idevices/trueorfalse/exequextscore.svg"/>
+      <file href="idevices/trueorfalse/exequextsq.svg"/>
+      <file href="idevices/trueorfalse/exequexttime.svg"/>
+      <file href="idevices/trueorfalse/tofhidesuggestion.png"/>
+      <file href="idevices/trueorfalse/tofnext.png"/>
+      <file href="idevices/trueorfalse/tofnextd.png"/>
+      <file href="idevices/trueorfalse/tofprevious.png"/>
+      <file href="idevices/trueorfalse/tofpreviousd.png"/>
+      <file href="idevices/trueorfalse/tofshowsuggestion.png"/>
+      <file href="idevices/trueorfalse/trueorfalse.css"/>
+      <file href="idevices/trueorfalse/trueorfalse.html"/>
+      <file href="idevices/trueorfalse/trueorfalse.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery-ui/jquery-ui.min.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Nunito-Bold.woff"/>
+      <file href="theme/fonts/Nunito-Bold.woff2"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff2"/>
+      <file href="theme/fonts/Nunito-Italic.woff"/>
+      <file href="theme/fonts/Nunito-Italic.woff2"/>
+      <file href="theme/fonts/Nunito-Regular.woff"/>
+      <file href="theme/fonts/Nunito-Regular.woff2"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objetives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_color.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_down_color.svg"/>
+      <file href="theme/img/arrow_down_white.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/arrow_up.svg"/>
+      <file href="theme/img/arrow_up_white.svg"/>
+      <file href="theme/img/back_arrow.svg"/>
+      <file href="theme/img/background.png"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/book_white.svg"/>
+      <file href="theme/img/forward_arrow.svg"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/menu_open_black.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
